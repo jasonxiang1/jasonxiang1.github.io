@@ -1,18 +1,15 @@
 # Education
 ---
 ## Carnegie Mellon University | May 2022
-### School of Computer Science, M.S. in Robotic Systems Development
+- School of Computer Science, M.S. in Robotic Systems Development
 
 ### GPA: 3.99
 
 ## George Washington University | May 2018
-### B.S. in Mechanical Engineering, Minor in Electrical Engineering
-
-### GPA: 3.95
-
-### Graduated Summa Cum Laude
-
-### Tau Beta Pi, Pi Tau Sigma
+- B.S. in Mechanical Engineering, Minor in Electrical Engineering
+- GPA: 3.95
+- Graduated Summa Cum Laude
+- Tau Beta Pi, Pi Tau Sigma
 
 # Skills
 ---
