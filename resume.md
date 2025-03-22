@@ -10,7 +10,7 @@
 
 ## [CentrePoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 May 2021
 ### Al Engineer, Carnegie Mellon University
-- Modified CenterPoint model with additional prediction heads to output attribute predictions alongside object detections
+- Modified [CenterPoint](https://arxiv.org/pdf/2006.11275) model with additional prediction heads to output attribute predictions alongside object detections
 - Fine-tuned model using NuScenes autonomous driving LiDAR dataset
 - Achieved average precision of 83% for most commonly seen object-attribute pair
 
@@ -27,12 +27,12 @@
 
 ## [Forterra](https://www.forterra.com/) | May 2021-Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
-- Implemented Kalman-based multi-object tracking algorithm with simulated LiDAR data samples in C++
-- Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
+- Implemented [Kalman-based multi-object tracking algorithm](https://ba-ngu.vo-au.com/vo/VM_GMPHD_SP06.pdf) with simulated LiDAR data samples in C++
+- Replicated [Event-Based Motion Segmentation](https://arxiv.org/pdf/1904.01293) paper to analyze feasibility of event cameras for company use-case
 
 # Education
 ---
-## Carnegie Mellon University | May 2022
+## [Carnegie Mellon University](https://mrsd.ri.cmu.edu/) | May 2022
 - School of Computer Science, M.S. in Robotic Systems Development
 - GPA: 3.99
 
