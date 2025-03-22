@@ -1,5 +1,3 @@
-# AI Research Engineer
----
 # Education
 ---
 ## Carnegie Mellon University | May 2022
