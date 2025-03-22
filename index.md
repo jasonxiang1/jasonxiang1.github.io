@@ -25,7 +25,7 @@
 - Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
 - Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision making in partially observable environments
 
-## Forterra | May 2021-Aug. 2021
+## [Forterra](https://www.forterra.com/) | May 2021-Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
 - Implemented Kalman-based multi-object tracking algorithm with simulated LiDAR data samples in C++
 - Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
