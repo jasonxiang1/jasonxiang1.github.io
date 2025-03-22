@@ -16,7 +16,7 @@
 
 # Work Experience
 ---
-## ISEE AI | Jun. 2022 - Present
+## [ISEE AI](https://www.isee.ai/) | Jun. 2022 - Present
 ### Reinforcement Learning Engineer, Remote
 - Led training of human-like, end-to-end RL policies to perform driving tasks in cluttered real-world sites
 - Designed roadmaps to train RL policies with specified end performance metrics
@@ -25,7 +25,7 @@
 - Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
 - Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision making in partially observable environments
 
-## Robotics Research, LLC | May 2021-Aug. 2021
+## Forterra | May 2021-Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
 - Implemented Kalman-based multi-object tracking algorithm with simulated LiDAR data samples in C++
 - Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
