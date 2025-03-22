@@ -2,8 +2,7 @@
 ---
 ## Carnegie Mellon University | May 2022
 - School of Computer Science, M.S. in Robotic Systems Development
-
-### GPA: 3.99
+- GPA: 3.99
 
 ## George Washington University | May 2018
 - B.S. in Mechanical Engineering, Minor in Electrical Engineering
