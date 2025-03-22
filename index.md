@@ -1,6 +1,6 @@
 # Projects
 ---
-## Backpack-Mounted Robot Arm | Sept. 2020 May 2022
+## [Backpack-Mounted Robot Arm](https://www.youtube.com/watch?v=KbwLp_TAgcU) | Sept. 2020 May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
 - Created backpack robot arm to perform repetitive manual tasks for field technicians
 - Achieved consistent end effector point stability given user motion up to 6 inches translational offset and 90 degrees rotation
@@ -8,7 +8,7 @@
 - Programmed force feedback control and obstacle avoidance to elevate robot decision-making in dynamic environments
 - Implemented critical risk mitigation strategies to prioritize user-safe interactions during operation
 
-## CentrePoint Object Attribute Prediction | Feb. 2021 May 2021
+## [CentrePoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 May 2021
 ### Al Engineer, Carnegie Mellon University
 - Modified CenterPoint model with additional prediction heads to output attribute predictions alongside object detections
 - Fine-tuned model using NuScenes autonomous driving LiDAR dataset
