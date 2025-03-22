@@ -1,6 +1,7 @@
 # AI Research Engineer
-
+---
 # Education
+---
 ## Carnegie Mellon University | May 2022
 ### School of Computer Science, M.S. in Robotic Systems Development
 
@@ -16,6 +17,7 @@
 ### Tau Beta Pi, Pi Tau Sigma
 
 # Skills
+---
 - Programming
 - Python
 - C++
@@ -27,6 +29,7 @@
 - ROS
 
 # Relevant Coursework
+---
 - Statistical Robotics
 - Computer Vision
 - Multimodal Machine Learning SLAM
@@ -34,6 +37,7 @@
 - Entrepreneurship in Robotics
 
 # Work Experience
+---
 ## ISEE AI | Jun. 2022 - Present
 ### Reinforcement Learning Engineer, Remote
 - Led training of human-like, end-to-end RL policies to perform driving tasks in cluttered real-world sites
@@ -49,6 +53,7 @@
 - Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
 
 # Projects
+---
 ## Backpack-Mounted Robot Arm | Sept. 2020 May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
 - Created backpack robot arm to perform repetitive manual tasks for field technicians
