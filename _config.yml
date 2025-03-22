@@ -2,4 +2,5 @@ title: Feng Xiang
 logo: /assets/headshot_img.JPG
 description: AI Research Engineer
 # show_downloads: true
-plugins: jekyll-theme-minimal
+plugins:
+- jekyll-theme-minimal
