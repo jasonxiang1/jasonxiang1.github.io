@@ -11,14 +11,15 @@
 - Graduated Summa Cum Laude
 - Tau Beta Pi, Pi Tau Sigma
 
-# Skills
+# Programming
 ---
-- Programming
 - Python
 - C++
 - Linux Ubuntu
 - Matlab & Simulink
-- Software
+
+# Software
+---
 - PyTorch
 - Bazel
 - ROS
