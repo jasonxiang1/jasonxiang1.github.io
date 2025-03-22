@@ -1,19 +1,3 @@
-# Work Experience
----
-## ISEE AI | Jun. 2022 - Present
-### Reinforcement Learning Engineer, Remote
-- Led training of human-like, end-to-end RL policies to perform driving tasks in cluttered real-world sites
-- Designed roadmaps to train RL policies with specified end performance metrics
-- Created PyTorch simulation environment to output over 200k training steps per second
-- Achieved benchmark performance within 15% of existing MPC implementation
-- Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
-- Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision making in partially observable environments
-
-## Robotics Research, LLC | May 2021-Aug. 2021
-### Software Engineer Trainee, Clarksburg, MD
-- Implemented Kalman-based multi-object tracking algorithm with simulated LiDAR data samples in C++
-- Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
-
 # Projects
 ---
 ## Backpack-Mounted Robot Arm | Sept. 2020 May 2022
@@ -29,6 +13,22 @@
 - Modified CenterPoint model with additional prediction heads to output attribute predictions alongside object detections
 - Fine-tuned model using NuScenes autonomous driving LiDAR dataset
 - Achieved average precision of 83% for most commonly seen object-attribute pair
+
+# Work Experience
+---
+## ISEE AI | Jun. 2022 - Present
+### Reinforcement Learning Engineer, Remote
+- Led training of human-like, end-to-end RL policies to perform driving tasks in cluttered real-world sites
+- Designed roadmaps to train RL policies with specified end performance metrics
+- Created PyTorch simulation environment to output over 200k training steps per second
+- Achieved benchmark performance within 15% of existing MPC implementation
+- Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
+- Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision making in partially observable environments
+
+## Robotics Research, LLC | May 2021-Aug. 2021
+### Software Engineer Trainee, Clarksburg, MD
+- Implemented Kalman-based multi-object tracking algorithm with simulated LiDAR data samples in C++
+- Replicated Event-Based Motion Segmentation paper to analyze feasibility of event cameras for company use-case
 
 # Education
 ---
