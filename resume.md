@@ -1,6 +1,6 @@
 # Projects
 ---
-## [Backpack-Mounted Robot Arm](https://www.youtube.com/watch?v=KbwLp_TAgcU) | Sept. 2020 May 2022
+## [Backpack-Mounted Robot Arm](/coborg.md) | Sept. 2020 May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
 - Created backpack robot arm to perform repetitive manual tasks for field technicians
 - Achieved consistent end effector point stability given user motion up to 6 inches translational offset and 90 degrees rotation
