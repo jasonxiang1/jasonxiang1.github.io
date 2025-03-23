@@ -1,6 +1,6 @@
 # Projects
 ---
-## [Backpack-Mounted Robot Arm](/coborg.md) | Sept. 2020 May 2022
+## [Backpack-Mounted Robot Arm](/coborg.md) | Sept. 2020 - May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
 - Created backpack robot arm to perform repetitive manual tasks for field technicians
 - Achieved consistent end effector point stability given user motion up to 6 inches translational offset and 90 degrees rotation
@@ -8,7 +8,7 @@
 - Programmed force feedback control and obstacle avoidance to elevate robot decision-making in dynamic environments
 - Implemented critical risk mitigation strategies to prioritize user-safe interactions during operation
 
-## [CentrePoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 May 2021
+## [CentrePoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
 ### Al Engineer, Carnegie Mellon University
 - Modified [CenterPoint](https://arxiv.org/pdf/2006.11275) model with additional prediction heads to output attribute predictions alongside object detections
 - Fine-tuned model using NuScenes autonomous driving LiDAR dataset
@@ -25,7 +25,7 @@
 - Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
 - Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision making in partially observable environments
 
-## [Forterra](https://www.forterra.com/) | May 2021-Aug. 2021
+## [Forterra](https://www.forterra.com/) | May 2021 - Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
 - Implemented [Kalman-based multi-object tracking algorithm](https://ba-ngu.vo-au.com/vo/VM_GMPHD_SP06.pdf) with simulated LiDAR data samples in C++
 - Replicated [Event-Based Motion Segmentation](https://arxiv.org/pdf/1904.01293) paper to analyze feasibility of event cameras for company use-case
