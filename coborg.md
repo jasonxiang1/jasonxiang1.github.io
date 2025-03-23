@@ -20,3 +20,5 @@ COBORG is an exoskeleton platform that will change the world. This vision of thi
 # Updated Manipulator Path Demo
 {% include googleDrivePlayer.html id=page.updatedArmPathID %}
 
+# More Information
+Project website is included here: [website link](https://mrsdprojects.ri.cmu.edu/2021teamc/)
