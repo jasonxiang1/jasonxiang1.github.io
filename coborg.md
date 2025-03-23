@@ -10,6 +10,8 @@ COBORG is an exoskeleton platform that will change the world. This vision of thi
 
 {% include youtubePlayer.html id=page.coborgNewsID %}
 
+Learn more from the project website [here](https://mrsdprojects.ri.cmu.edu/2021teamc/).
+
 # End Effector Accuracy Test
 {% include googleDrivePlayer.html id=page.coborgArmDemoID %}
 
@@ -19,6 +21,3 @@ COBORG is an exoskeleton platform that will change the world. This vision of thi
 
 # Updated Manipulator Path Demo
 {% include googleDrivePlayer.html id=page.updatedArmPathID %}
-
-# More Information
-Project website is included [here](https://mrsdprojects.ri.cmu.edu/2021teamc/).
