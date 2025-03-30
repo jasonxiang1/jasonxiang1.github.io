@@ -2,38 +2,36 @@
 ---
 ## [ISEE AI](https://www.isee.ai/) | Jun. 2022 - Present
 ### Reinforcement Learning Engineer, Remote
-- Led training of human-like, end-to-end RL policies to perform driving tasks in cluttered real-world sites
-- Designed roadmaps to train RL policies with specified end-performance metrics
-- Created PyTorch simulation environment to output over 200k training steps per second
-- Achieved benchmark performance within 15% of existing MPC implementation
-- Enhanced risk-averse behavior by integrating hindsight reward modules to enforce strict safety constraints without expensive forward look-ahead compute
-- Applied state-of-the-art, on-policy transformer models with a focus on improving real-time decision-making in partially observable environments
+- Trained on-policy transformer models to make humanlike driving decisions in partially observable environments
+- Built roadmaps for policy training, targeting specific performance metrics
+- Developed and maintained PyTorch simulation environment, achieving 200k+ training steps/second
+- Attained real-world policy performance within 15% of baseline performance at 50% efficiency gain
+- Integrated hindsight reward modules to enforce constraints, reducing reliance on forward look-ahead computing
 
 ## [Forterra](https://www.forterra.com/) | May 2021 - Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
 - Implemented [Kalman-based multi-object tracking algorithm](https://ba-ngu.vo-au.com/vo/VM_GMPHD_SP06.pdf) with simulated LiDAR data samples in C++
-- Replicated [Event-Based Motion Segmentation](https://arxiv.org/pdf/1904.01293) paper to analyze feasibility of event cameras for company use-case
+- Replicated [Event-Based Motion Segmentation](https://arxiv.org/pdf/1904.01293) to evaluate event cameras for fast object tracking applications
 
 # Projects
 ---
 ## [Backpack-Mounted Robot Arm](/pages/coborg.md) | Sept. 2020 - May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
-- Created backpack robot arm to perform repetitive manual tasks for field technicians
-- Achieved consistent end effector point stability given user motion up to 6 inches translational offset and 90 degrees rotation
-- Interfaced with Intel RealSense cameras and HEBI series elastic actuators using ROS Melodic framework
-- Programmed force feedback control and obstacle avoidance to elevate robot decision-making in dynamic environments
-- Implemented critical risk mitigation strategies to prioritize user-safe interactions during operation
+- Developed backpack robot arm for repetitive manual tasks for field technicians
+- Achieved stable end-effector positioning under human motion (up to 6" translation, 90° rotation)
+- Integrated Intel RealSense cameras and HEBI actuators using ROS Melodic framework
+- Programmed force feedback control and obstacle avoidance for improved robot interaction in dynamic environments
 
 ## [Scene Graphs for VQA](/pages/gqa.md) | Sept. 2021 - Dec. 2021
 ### AI Engineer, Carnegie Mellon University
-- Evaluated scene graph generation pipelines by utilizing Neural Motifs and bottom-up attention to generate scene graphs and object attributes for GraphVQA model
-- Achieved at-most 10% relative performance gain over base models by utilizing scene graphs in data augmentation and pre-training tasks
+- Evaluated scene graph and object attribute generation pipelines (Neural Motifs, bottom-up attention) for GraphVQA model
+- Improved VQA performance across various multimodal architecture by up to 10% using scene graph modalities in data augmentation and pre-training
 
 ## [CenterPoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
 ### Al Engineer, Carnegie Mellon University
-- Modified [CenterPoint](https://arxiv.org/pdf/2006.11275) model with additional prediction heads to output attribute predictions alongside object detections
-- Fine-tuned model using NuScenes autonomous driving LiDAR dataset
-- Achieved average precision of 83% for most commonly seen object-attribute pair
+- Extended [CenterPoint 3D detection](https://arxiv.org/pdf/2006.11275) model to predict object attributes
+- Fine-tuned model using the NuScenes autonomous driving LiDAR dataset
+- Achieved 83% average precision for commonly-seen object-attribute pairs
 
 # Education
 ---
