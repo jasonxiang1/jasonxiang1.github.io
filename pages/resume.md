@@ -17,18 +17,18 @@
 ---
 ## [Backpack-Mounted Robot Arm](/pages/coborg.md) | Sept. 2020 - May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
-- Developed backpack robot arm for repetitive manual tasks for field technicians
+- Developed backpack robot arm to handle repetitive tasks for field technicians
 - Achieved stable end-effector positioning under human motion (up to 6" translation, 90° rotation)
 - Integrated Intel RealSense cameras and HEBI actuators using ROS Melodic framework
 - Programmed force feedback control and obstacle avoidance for improved robot interaction in dynamic environments
 
 ## [Scene Graphs for VQA](/pages/gqa.md) | Sept. 2021 - Dec. 2021
-### AI Engineer, Carnegie Mellon University
+### NLP Engineer, Carnegie Mellon University
 - Evaluated scene graph and object attribute generation pipelines (Neural Motifs, bottom-up attention) for GraphVQA model
 - Improved VQA performance across various multimodal architecture by up to 10% using scene graph modalities in data augmentation and pre-training
 
 ## [CenterPoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
-### Al Engineer, Carnegie Mellon University
+### Perception Engineer, Carnegie Mellon University
 - Extended [CenterPoint 3D detection](https://arxiv.org/pdf/2006.11275) model to predict object attributes
 - Fine-tuned model using the NuScenes autonomous driving LiDAR dataset
 - Achieved 83% average precision for commonly-seen object-attribute pairs
