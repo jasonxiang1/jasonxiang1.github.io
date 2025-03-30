@@ -24,6 +24,11 @@
 - Programmed force feedback control and obstacle avoidance to elevate robot decision-making in dynamic environments
 - Implemented critical risk mitigation strategies to prioritize user-safe interactions during operation
 
+## [Scene Graphs for VQA](/pages/gqa.md) | Sept. 2021 - Dec. 2021
+### AI Engineer, Carnegie Mellon University
+- Evaluated scene graph generation pipelines by utilizing Neural Motifs and bottom-up attention to generate scene graphs and object attributes for GraphVQA model
+- Achieved at-most 10% relative performance gain over base models by utilizing scene graphs in data augmentation and pre-training tasks
+
 ## [CenterPoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
 ### Al Engineer, Carnegie Mellon University
 - Modified [CenterPoint](https://arxiv.org/pdf/2006.11275) model with additional prediction heads to output attribute predictions alongside object detections
