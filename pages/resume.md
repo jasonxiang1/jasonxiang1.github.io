@@ -24,7 +24,7 @@
 - Programmed force feedback control and obstacle avoidance to elevate robot decision-making in dynamic environments
 - Implemented critical risk mitigation strategies to prioritize user-safe interactions during operation
 
-## [CentrePoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
+## [CenterPoint Object Attribute Prediction](https://vlrproject.wordpress.com/) | Feb. 2021 - May 2021
 ### Al Engineer, Carnegie Mellon University
 - Modified [CenterPoint](https://arxiv.org/pdf/2006.11275) model with additional prediction heads to output attribute predictions alongside object detections
 - Fine-tuned model using NuScenes autonomous driving LiDAR dataset
