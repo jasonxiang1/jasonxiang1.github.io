@@ -15,14 +15,14 @@
 
 # Projects
 ---
-## [Backpack-Mounted Robot Arm](/pages/coborg.md) | Sept. 2020 - May 2022
+## [Backpack-Mounted Robot Arm](/coborg.md) | Sept. 2020 - May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
 - Developed backpack robot arm to handle repetitive tasks for field technicians
 - Achieved stable end-effector positioning under human motion (up to 6" translation, 90° rotation)
 - Integrated Intel RealSense cameras and HEBI actuators using ROS Melodic framework
 - Programmed force feedback control and obstacle avoidance for improved robot interaction in dynamic environments
 
-## [Scene Graphs for VQA](/pages/gqa.md) | Sept. 2021 - Dec. 2021
+## [Scene Graphs for VQA](/gqa.md) | Sept. 2021 - Dec. 2021
 ### NLP Engineer, Carnegie Mellon University
 - Evaluated scene graph and object attribute generation pipelines (Neural Motifs, bottom-up attention) for GraphVQA model
 - Improved VQA performance across various multimodal architecture by up to 10% using scene graph modalities in data augmentation and pre-training
