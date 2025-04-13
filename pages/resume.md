@@ -7,6 +7,8 @@
 - Developed and maintained PyTorch simulation environment, achieving 200k+ training steps/second
 - Attained real-world policy performance within 15% of baseline performance at 50% efficiency gain
 - Integrated hindsight reward modules to enforce constraints, reducing reliance on forward look-ahead computing
+- Developed robust reward models to better align with Operational Design Domain
+- Integrated learned reward models with domain expertise models to minimize reward engineering iterations
 
 ## [Forterra](https://www.forterra.com/) | May 2021 - Aug. 2021
 ### Software Engineer Trainee, Clarksburg, MD
@@ -17,10 +19,10 @@
 ---
 ## [Backpack-Mounted Robot Arm](/coborg.md) | Sept. 2020 - May 2022
 ### Motion Planning Engineer, Carnegie Mellon University
-- Developed backpack robot arm to handle repetitive tasks for field technicians
+- Developed backpack robot arm to assist field technicians performing panel installation tasks
 - Achieved stable end-effector positioning under human motion (up to 6" translation, 90° rotation)
 - Integrated Intel RealSense cameras and HEBI actuators using ROS Melodic framework
-- Programmed force feedback control and obstacle avoidance for improved robot interaction in dynamic environments
+- Programmed force feedback control in C++ for safe robot interaction in dynamic environments
 
 ## [Scene Graphs for VQA](/gqa.md) | Sept. 2021 - Dec. 2021
 ### NLP Engineer, Carnegie Mellon University
