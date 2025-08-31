@@ -58,3 +58,83 @@
     width: 100%;
     height: 100%;
   }
+
+  /* Custom font size overrides */
+  body {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Increase heading sizes */
+  h1 {
+    font-size: 2.5em !important;
+    margin-bottom: 0.5em !important;
+  }
+
+  h2 {
+    font-size: 2em !important;
+    margin-bottom: 0.4em !important;
+  }
+
+  h3 {
+    font-size: 1.6em !important;
+    margin-bottom: 0.3em !important;
+  }
+
+  h4 {
+    font-size: 1.4em !important;
+    margin-bottom: 0.3em !important;
+  }
+
+  /* Increase paragraph and list text size */
+  p, li {
+    font-size: 18px !important;
+    line-height: 1.6 !important;
+  }
+
+  /* Increase link text size */
+  a {
+    font-size: 18px !important;
+  }
+
+  /* Increase code block font size */
+  code {
+    font-size: 16px !important;
+  }
+
+  pre {
+    font-size: 16px !important;
+  }
+
+  /* Increase table font size */
+  table {
+    font-size: 18px !important;
+  }
+
+  /* Increase blockquote font size */
+  blockquote {
+    font-size: 18px !important;
+  }
+
+  /* Responsive adjustments for mobile */
+  @media (max-width: 768px) {
+    body {
+      font-size: 16px !important;
+    }
+    
+    h1 {
+      font-size: 2em !important;
+    }
+    
+    h2 {
+      font-size: 1.6em !important;
+    }
+    
+    h3 {
+      font-size: 1.4em !important;
+    }
+    
+    p, li, a {
+      font-size: 16px !important;
+    }
+  }
