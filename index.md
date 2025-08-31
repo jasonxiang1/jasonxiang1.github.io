@@ -4,7 +4,7 @@ I am an RL / AI research engineer with a preliminary background in mechatronics 
 
 During my time at Forterra, I applied [Gaussian Mixture Probability Hypothesis Density Filters](https://ba-ngu.vo-au.com/vo/VM_GMPHD_SP06.pdf) in addition to utilizing [Motion Segmentation with Event Cameras](https://arxiv.org/pdf/1904.01293) to improve multi-object tracking speed and fidelity. I am currently training reinforcement learning policies to operate in non-stationary logistic yards. 
 
-# [Projects](/pages/projects.md)
+# [Projects Page](/pages/projects.md)
 
 # Relevant Links
 - [LinkedIn Profile](https://www.linkedin.com/in/fengxiang1/)
