@@ -5,6 +5,8 @@ updatedArmPathID: 1LsKZbSpOL0zS88eg9NQ5itl-pmrVkPMF/preview
 coborgNewsID: KbwLp_TAgcU
 ---
 
+# [Project Website](https://mrsdprojects.ri.cmu.edu/2021teamc/)
+
 # Description
 COBORG is an exoskeleton platform that will change the world. The vision of this system is to be able to act as a helping hand for it’s operator. We’ve found that people who do overhead manufacturing, for example automation or aircraft assembly, tend to strain their arms after working for long periods of time, and often require a second person to assist them as they work. We want to create a platform that will empower and aid the user as they do their day-to-day tasks.
 
@@ -19,4 +21,3 @@ COBORG is an exoskeleton platform that will change the world. The vision of this
 # Updated Manipulator Path Demo
 {% include googleDrivePlayer.html id=page.updatedArmPathID %}
 
-# [Project Website Link](https://mrsdprojects.ri.cmu.edu/2021teamc/)
