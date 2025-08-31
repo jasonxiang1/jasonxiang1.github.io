@@ -5,13 +5,53 @@
 
    .embed-container {
     position: relative;
-    padding-bottom: 56.25%;
+    padding-bottom: 56.25%; /* 16:9 aspect ratio */
     height: 0;
     overflow: hidden;
     max-width: 100%;
   }
+
+  /* Alternative aspect ratios */
+  .embed-container-4-3 {
+    position: relative;
+    padding-bottom: 75%; /* 4:3 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .embed-container-3-2 {
+    position: relative;
+    padding-bottom: 66.67%; /* 3:2 aspect ratio */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  .embed-container-1-1 {
+    position: relative;
+    padding-bottom: 100%; /* 1:1 aspect ratio (square) */
+    height: 0;
+    overflow: hidden;
+    max-width: 100%;
+  }
+
+  /* Auto-sizing container - preserves original aspect ratio */
+  .embed-container-auto {
+    position: relative;
+    max-width: 100%;
+  }
+
+  .embed-container-auto iframe {
+    width: 100%;
+    height: auto;
+    min-height: 400px;
+  }
   
-  .embed-container iframe, .embed-container object, .embed-container embed {
+  .embed-container iframe, .embed-container object, .embed-container embed,
+  .embed-container-4-3 iframe, .embed-container-4-3 object, .embed-container-4-3 embed,
+  .embed-container-3-2 iframe, .embed-container-3-2 object, .embed-container-3-2 embed,
+  .embed-container-1-1 iframe, .embed-container-1-1 object, .embed-container-1-1 embed {
     position: absolute;
     top: 0;
     left: 0;

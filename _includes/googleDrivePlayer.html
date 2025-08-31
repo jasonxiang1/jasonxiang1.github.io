@@ -1,6 +1,24 @@
-<!-- Feel free to change the width and height to your desired video size. -->
+<!-- Google Drive Video Player with customizable aspect ratio -->
+<!-- Usage: {% include googleDrivePlayer.html id="VIDEO_ID" ratio="16-9" %} -->
+<!-- Available ratios: 16-9 (default), 4-3, 3-2, 1-1, auto -->
 
-<div class="embed-container">
+{% assign ratio = include.ratio | default: "16-9" %}
+{% assign container_class = "embed-container" %}
+
+{% case ratio %}
+  {% when "4-3" %}
+    {% assign container_class = "embed-container-4-3" %}
+  {% when "3-2" %}
+    {% assign container_class = "embed-container-3-2" %}
+  {% when "1-1" %}
+    {% assign container_class = "embed-container-1-1" %}
+  {% when "auto" %}
+    {% assign container_class = "embed-container-auto" %}
+  {% else %}
+    {% assign container_class = "embed-container" %}
+{% endcase %}
+
+<div class="{{ container_class }}">
     <iframe
         width="700"
         height="480"
@@ -8,4 +26,4 @@
         frameborder="0"
         allowfullscreen="true">
     </iframe>
-  </div>
+</div>
