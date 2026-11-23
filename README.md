@@ -12,10 +12,10 @@ Run `python3 -m http.server 8000` in this directory, then open `http://localhost
 - `pages/`: project details. The original `/pages/projects.html`, `/pages/coborg.html`, and `/pages/gqa.html` URLs are retained.
 - `styles/main.css`: shared responsive styles.
 - `js/main.js`: mobile menu, accessible skill tabs, project quick views, and footer year.
-- `assets/pdf/`: public résumé and VQA project paper.
+- `assets/pdf/`: public resume and VQA project paper.
 - `_archive/`: original Jekyll site, retained as a reference and excluded from the GitHub Pages build by `_config.yml`.
 
-The content was adapted from the existing live portfolio and supplied résumé. Update `sitemap.xml` dates when page content changes. Keep metadata in the HTML consistent with your title and background. Project detail links, skills, and mobile navigation remain usable with JavaScript disabled.
+The content was adapted from the existing live portfolio and supplied resume. Update `sitemap.xml` dates when page content changes. Keep metadata in the HTML consistent with your title and background. Project detail links, skills, and mobile navigation remain usable with JavaScript disabled.
 
 ## Publishing
 
