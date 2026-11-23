@@ -1,72 +1,47 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Feng Xiang | Software Engineer at Waymo</title>
-  <meta name="description" content="Feng Xiang is a Software Engineer at Waymo with a background in machine learning, prediction, and robotics.">
-  <link rel="canonical" href="https://jasonxiang1.github.io/">
-  <meta property="og:title" content="Feng Xiang | Software Engineer at Waymo">
-  <meta property="og:description" content="Feng Xiang is a Software Engineer at Waymo with a background in machine learning, prediction, and robotics.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://jasonxiang1.github.io/">
-  <meta property="og:image" content="https://jasonxiang1.github.io/assets/headshot_img.JPG">
-  <meta property="og:image:alt" content="Portrait of Feng Xiang">
-  <meta name="twitter:card" content="summary">
-  <meta name="theme-color" content="#f7f8fc">
-  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="styles/main.css">
-  <script src="js/main.js" defer></script>
-<script type="application/ld+json">{
-  "@context": "https://schema.org",
-  "@type": "Person",
-  "name": "Feng Xiang",
-  "url": "https://jasonxiang1.github.io/",
-  "image": "https://jasonxiang1.github.io/assets/headshot_img.JPG",
-  "jobTitle": "Software Engineer",
-  "worksFor": {
-    "@type": "Organization",
-    "name": "Waymo"
-  },
-  "alumniOf": [
-    {
-      "@type": "CollegeOrUniversity",
-      "name": "Carnegie Mellon University"
+---
+import SiteLayout from "../layouts/SiteLayout.astro";
+const metadata = {
+  "title": "Feng Xiang | Software Engineer at Waymo",
+  "description": "Feng Xiang is a Software Engineer at Waymo with a background in machine learning, prediction, and robotics.",
+  "canonical": "https://jasonxiang1.github.io/",
+  "assetPrefix": "",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Feng Xiang",
+    "url": "https://jasonxiang1.github.io/",
+    "image": "https://jasonxiang1.github.io/assets/headshot_img.JPG",
+    "jobTitle": "Software Engineer",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Waymo"
     },
-    {
-      "@type": "CollegeOrUniversity",
-      "name": "George Washington University"
-    }
-  ],
-  "sameAs": [
-    "https://www.linkedin.com/in/fengxiang1/",
-    "https://github.com/jasonxiang1"
-  ],
-  "knowsAbout": [
-    "Reinforcement Learning",
-    "Imitation Learning",
-    "Motion Forecasting",
-    "Computer Vision",
-    "Robotics"
-  ]
-}</script>
-</head>
-<body>
-  <a class="skip-link" href="#main">Skip to content</a>
-  <header class="site-header">
-    <nav class="navigation wrap" aria-label="Main navigation">
-      <a class="wordmark" href="index.html">Feng Xiang</a>
-      <button class="menu-toggle" aria-expanded="false" aria-controls="nav-links" hidden>Menu</button>
-      <div class="nav-links" id="nav-links">
-        <a href="index.html#about">About</a>
-        <a href="index.html#work">Work</a>
-        <a href="index.html#projects">Projects</a>
-        <a href="index.html#contact">Contact</a>
-        <a class="nav-resume" href="assets/pdf/resume.pdf">Resume <span class="sr-only">(PDF)</span></a>
-      </div>
-    </nav>
-  </header>
-  <main id="main">
+    "alumniOf": [
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "Carnegie Mellon University"
+      },
+      {
+        "@type": "CollegeOrUniversity",
+        "name": "George Washington University"
+      }
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/in/fengxiang1/",
+      "https://github.com/jasonxiang1"
+    ],
+    "knowsAbout": [
+      "Reinforcement Learning",
+      "Imitation Learning",
+      "Motion Forecasting",
+      "Computer Vision",
+      "Robotics"
+    ]
+  }
+};
+---
+<SiteLayout {...metadata}>
+<main id="main">
     <section class="hero wrap" aria-labelledby="hero-title">
       <div class="hero-copy">
         <p class="eyebrow">Software Engineer · Waymo</p>
@@ -118,6 +93,4 @@
   <template id="preview-coborg"><h2 id="preview-title-coborg">Backpack-Mounted Third Robot Arm</h2><p>Motion planning and stabilization for COBORG, a wearable robotic arm that assists technicians with overhead panel installation.</p><p class="dialog-result"><strong>84.62%</strong> task success in panel installation tests</p><a class="button" href="pages/coborg.html">Explore project</a></template>
   <template id="preview-gqa"><h2 id="preview-title-gqa">Scene Graphs for Visual Question Answering</h2><p>Generating structured relationships between objects to improve visual question answering when scene graph annotations are missing.</p><p class="dialog-result"><strong>11%</strong> GraphVQA accuracy improvement on scene graph-deficient test sets</p><a class="button" href="pages/gqa.html">Explore project</a></template>
   <template id="preview-centerpoint"><h2 id="preview-title-centerpoint">CenterPoint Joint Object–Attribute Prediction</h2><p>Extending a LiDAR-based 3D detector to jointly predict objects and attributes, including vehicle type and pedestrian posture.</p><p class="dialog-result"><strong>83%</strong> average precision for vehicle and pedestrian object–attribute pairs</p><a class="button" href="pages/centerpoint.html">Explore project</a></template>
-  <footer class="site-footer wrap"><p>© <span data-year>2026</span> Feng Xiang</p><p>Learning systems. Real-world intelligence.</p></footer>
-</body>
-</html>
+</SiteLayout>

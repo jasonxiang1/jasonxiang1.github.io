@@ -1,8 +1,0 @@
-# GitHub Pages serves the custom HTML/CSS/JS without a theme or plugins.
-# Retain the original source locally without publishing the archive.
-title: Feng Xiang
-url: https://jasonxiang1.github.io
-exclude:
-  - _archive
-  - README.md
-  - output

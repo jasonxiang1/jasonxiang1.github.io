@@ -1,0 +1,17 @@
+---
+interface Props { assetPrefix: string; }
+const { assetPrefix } = Astro.props;
+---
+  <header class="site-header">
+    <nav class="navigation wrap" aria-label="Main navigation">
+      <a class="wordmark" href={`${assetPrefix}index.html`}>Feng Xiang</a>
+      <button class="menu-toggle" aria-expanded="false" aria-controls="nav-links" hidden>Menu</button>
+      <div class="nav-links" id="nav-links">
+        <a href={`${assetPrefix}index.html#about`}>About</a>
+        <a href={`${assetPrefix}index.html#work`}>Work</a>
+        <a href={`${assetPrefix}index.html#projects`}>Projects</a>
+        <a href={`${assetPrefix}index.html#contact`}>Contact</a>
+        <a class="nav-resume" href={`${assetPrefix}assets/pdf/resume.pdf`}>Resume <span class="sr-only">(PDF)</span></a>
+      </div>
+    </nav>
+  </header>
