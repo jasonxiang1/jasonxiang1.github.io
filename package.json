@@ -1,0 +1,25 @@
+{
+  "name": "feng-xiang-portfolio",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24 <25"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check": "astro check",
+    "verify:content": "node scripts/verify-content.mjs",
+    "verify": "npm run check && npm run build && npm run verify:content && npm run test:preservation",
+    "test:preservation": "node --test tests/preservation.test.mjs"
+  },
+  "dependencies": {
+    "astro": "7.4.13"
+  },
+  "devDependencies": {
+    "@astrojs/check": "0.9.12",
+    "parse5": "8.1.1",
+    "typescript": "6.0.3"
+  }
+}
